@@ -1,0 +1,1 @@
+dog.png ./upload_files/dog.png 302	127.0.0.1
