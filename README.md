@@ -1,6 +1,6 @@
 # Peer to Peer Chatroom with File Transfer
 This project was designed by [Professor Ali Hamzeh](https://scholar.google.com/citations?user=3AijUAwAAAAJ&hl=en) 
-for the Principles of Programming course (Winter 2020).
+for the Principles of Programming course (Fall 2020).
 
 ## Dependencies
 This project only runs on a linux Operating System or WSL (Windows Subsystem for Linux).
